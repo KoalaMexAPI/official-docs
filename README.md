@@ -775,5 +775,5 @@ HTTP状态码200表示成功响应，并可能包含内容。如果响应含有�
   
 
 [KoalaMex]: https://www.KoalaMex.com 
-[English Docs]: https://github.com/KoalaMex/KoalaMex-official-api-docs/blob/master/README_EN.md
+[English Docs]: https://github.com/KoalaMexAPI/official-docs/blob/master/README_EN.md
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
